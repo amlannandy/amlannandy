@@ -7,6 +7,8 @@
 
 ![Amlan's github stats](https://github-readme-stats.vercel.app/api?username=amlannandy&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amlannandy)](https://github.com/amlannandy/github-readme-stats)
+
 🏡 [website][website] **|** 
 📦 [devpost][devpost] **|** 
 👔 [linkedin][linkedin]
