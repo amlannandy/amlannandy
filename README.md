@@ -21,7 +21,6 @@
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <br />
 <br />
-<hr />
 
 ### Tools and other stuff
 
@@ -32,7 +31,6 @@
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <br />
 <br />
-<hr />
 
 🏡 [website][website] **|** 
 📦 [devpost][devpost] **|** 
