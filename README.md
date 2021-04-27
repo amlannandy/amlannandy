@@ -5,9 +5,9 @@
 - 💬 Ask me about **App Development**
 - 😄 Pronouns: **He/Him**
 
-![Amlan's github stats](https://github-readme-stats.vercel.app/api?username=amlannandy&show_icons=true&count_private=true)
+![Amlan's github stats](https://github-readme-stats.vercel.app/api?username=amlannandy&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amlannandy&layout=compact&langs_count=6&hide=html,scss)](https://github.com/amlannandy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amlannandy&layout=compact&langs_count=6&hide=html,scss&theme=tokyonight)](https://github.com/amlannandy/github-readme-stats)
 
 ### Languages and Libraries
 
