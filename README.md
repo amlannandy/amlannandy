@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Native Android with Kotlin**
-- 🌱 I’m currently learning **CSS**
+- 🔭 I’m currently working on **React.js and Node.js**
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **App Development**
 - 😄 Pronouns: **He/Him**
 
