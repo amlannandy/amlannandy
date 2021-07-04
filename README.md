@@ -6,7 +6,7 @@
 - 🌍 **I’m currently working on:** EcoSearch, a Flora and Fauna storage and classification platform
 - 🌱 **I’m currently learning:** TypeScript
 - 💜 **Interests:** Reading, Video Games, Cycling, Gardening
-- 🚲 **Fun fact:** I love cycling and make sure to cover at least 20 km everyday
+- 🚲 **Fun fact:** I cycle at least 20 km everyday
 
 
 ### My Technology Stack 🔭
