@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-- 🌱 **Intro:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
+- 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
 - 💬 **Ask me anything about:** App and Web development
 - 🌍 **I’m currently working on:** EcoSearch, a Flora and Fauna storage and classification platform
