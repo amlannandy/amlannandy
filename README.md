@@ -1,45 +1,48 @@
-### Hi there 👋
+### Hey there! 👋
 
-- 🔭 I’m currently working on **React.js and Node.js**
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **App Development**
-- 😄 Pronouns: **He/Him**
+- 🌱 **Intro:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
+- 😄 **Pronouns:** He/Him/His
+- 💬 **Ask me anything about:** App and Web development
+- 🌍 **I’m currently working on:** EcoSearch, a Flora and Fauna storage and classification platform
+- 🌱 **I’m currently learning:** TypeScript
+- 💜 **Interests:** Reading, Video Games, Cycling, Gardening
+- 🚲 **Fun fact:** I love cycling and make sure to cover at least 20 km everyday
 
-![Amlan's github stats](https://github-readme-stats.vercel.app/api?username=amlannandy&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amlannandy&layout=compact&langs_count=6&hide=html,scss&theme=tokyonight)](https://github.com/amlannandy/github-readme-stats)
+### My Technology Stack 🔭
 
-### Languages and Libraries
+<div style='display: flex;'>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
 
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
-<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="React" width="35px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="React" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<br />
-<br />
+<div style='display: flex;'>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+</div>
 
-### Tools and other stuff
+<div style='display: flex;'>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
 
-<img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-<img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="heroku" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-<br />
-<br />
-<br />
+<div style='display: flex;'>
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
+</div>
 
-🏡 [website][website] **|** 
-📦 [devpost][devpost] **|** 
-👔 [linkedin][linkedin]
+### Connect with Me 🤝 
 
-[website]: https://amlannandy.github.io/
-[linkedin]: https://www.linkedin.com/in/amlan-nandy/
-[devpost]: https://devpost.com/amlannandy5
+<a href="https://www.linkedin.com/in/amlan-nandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/amlankumarnandy"><img alt="Twitter" src="https://img.shields.io/badge/amlankumarnandy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://medium.com/@amlannandy"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
