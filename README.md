@@ -3,9 +3,9 @@
 - 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
 - 💬 **Ask me anything about:** App and Web development
-- 🌍 **I’m currently working on:** EcoSearch, a Flora and Fauna storage and classification platform
+- 🌍 **I’m currently working on:** FloraSearch, a Flower Storage and Classification platform
 - 🌱 **I’m currently learning:** TypeScript
-- 💜 **Interests:** Reading, Video Games, Cycling, Gardening
+- 💜 **Interests:** Reading, Video Games, Cycling
 - 🚲 **Fun fact:** I try to cycle 20 km everyday
 
 
