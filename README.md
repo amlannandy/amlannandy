@@ -4,7 +4,7 @@
 - 😄 **Pronouns:** He/Him/His
 - 💬 **Ask me anything about:** App and Web development
 - 🌍 **I’m currently working on:** FloraSearch, a Flower Storage and Classification platform
-- 🌱 **I’m currently learning:** TypeScript
+- 🌱 **I’m currently learning:** Next.js
 - 💜 **Interests:** Reading, Video Games, Cycling
 - 🚲 **Fun fact:** I try to cycle 20 km everyday
 
