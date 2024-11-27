@@ -20,6 +20,4 @@ You can check out more of my work here on GitHub or explore my **[Devpost profil
 
 - 🎯 **Why I Do This**: I love building things that are both functional and enjoyable to use. Whether it’s crafting intuitive interfaces or architecting solid backends, I aim to create stuff that people love using.
 
-Here’s the last line with your email added as a mailto link:
-
 Feel free to explore my projects, drop a star if something piques your interest, or reach out to me for any **questions, feedback, or collaboration opportunities** via **[LinkedIn](https://www.linkedin.com/in/amlan-nandy/)** or **[email me](mailto:amlannandy5@gmail.com)**!
