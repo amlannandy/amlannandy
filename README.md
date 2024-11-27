@@ -1,48 +1,25 @@
 ### Hey there! 👋
 
-- 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
-- 😄 **Pronouns:** He/Him/His
-- 💬 **Ask me anything about:** App and Web development
-- 🌍 **I’m currently working on:** FloraSearch, a Flower Storage and Classification platform
-- 🌱 **I’m currently learning:** Next.js
-- 💜 **Interests:** Reading, Video Games, Cycling
-- 🚲 **Fun fact:** I try to cycle 20 km everyday
+I’m **Amlan Kumar Nandy**, a Full Stack Developer with a **frontend focus** and about **3 years of experience** building web and mobile applications that make life easier (and look good while doing it). While my main jam is web development, I also dive into mobile projects when the need arises.
 
+- 🚀 **What I’ve Been Working On**:
+  - **[LabelLab](https://github.com/amlannandy/LabelLab)**: LabelLab is a tool for collaborative image labeling, designed to streamline the process of classifying images for machine learning projects. It supports team collaboration, allowing users to upload, label, and track progress on datasets. The platform includes project management features, role-based access for team members, and tools to track labeling activity, making it ideal for machine learning teams working with large datasets.
+  - **[Medigo](https://github.com/amlannandy/Medigo)**: Medigo is a telehealth solution designed to connect patients with healthcare providers through virtual consultations. The platform allows users to schedule appointments, access medical records securely, and receive prescriptions electronically. By integrating video calling, real-time communication, and data security, Medigo makes healthcare more accessible, especially for patients in remote areas, while ensuring privacy and convenience for both patients and doctors.
+  - **[AgroAcres](https://github.com/amlannandy/AgroAcres)**: AgroAcres is a platform aimed at enhancing the efficiency of agricultural markets by providing tools for farmers to manage their crops, predict yields, and connect with suppliers and buyers. The app allows users to list products, browse offers, and communicate with stakeholders in the agricultural supply chain. With features that support inventory management and market analysis, AgroAcres helps streamline farming operations, boosting productivity and market access for agriculturalists.
 
-### My Technology Stack 🔭
+You can check out more of my work here on GitHub or explore my **[Devpost profile](https://devpost.com/amlannandy5)** for other projects I’ve worked on.
 
-<div style='display: flex;'>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
+- 💻 **Tech I Use**:
+  - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+  - **Backend**: Node.js, Express.js, Python, Flask
+  - **Mobile**: Dart, Flutter, React Native
+  - **Database**: PostgreSQL, MongoDB, Firebase
+  - **Others**: AWS, TensorFlow.js, Figma, AdobeXD
 
-<div style='display: flex;'>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-</div>
+- 🌱 **What I’m Learning**: Leveling up on advanced frontend practices and experimenting with AI tools to create smarter apps.
 
-<div style='display: flex;'>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
+- 🎯 **Why I Do This**: I love building things that are both functional and enjoyable to use. Whether it’s crafting intuitive interfaces or architecting solid backends, I aim to create stuff that people love using.
 
-<div style='display: flex;'>
-  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
-</div>
+Here’s the last line with your email added as a mailto link:
 
-### Connect with Me 🤝 
-
-<a href="https://www.linkedin.com/in/amlan-nandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/amlankumarnandy"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://medium.com/@amlannandy"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+Feel free to explore my projects, drop a star if something piques your interest, or reach out to me for any **questions, feedback, or collaboration opportunities** via **[LinkedIn](https://www.linkedin.com/in/amlan-nandy/)** or **[email me](mailto:amlannandy5@gmail.com)**!
