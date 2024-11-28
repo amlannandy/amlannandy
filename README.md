@@ -11,7 +11,7 @@ You can check out more of my work here on GitHub or explore my **[Devpost profil
 
 - 💻 **Tech I Use**:
   - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
-  - **Backend**: Node.js, Express.js, Python, Flask
+  - **Backend**: Go, Node.js, Express.js, Python, Flask
   - **Mobile**: Dart, Flutter, React Native
   - **Database**: PostgreSQL, MongoDB, Firebase
   - **Others**: AWS, TensorFlow.js, Figma, AdobeXD
