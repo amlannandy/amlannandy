@@ -16,7 +16,7 @@ You can check out more of my work here on GitHub or explore my **[Devpost profil
   - **Database**: PostgreSQL, MongoDB, Firebase
   - **Others**: AWS, TensorFlow.js, Figma, AdobeXD
 
-- 🌱 **What I’m Learning**: Leveling up on advanced frontend practices and studing up on System Design.
+- 🌱 **What I’m Learning**: Leveling up on advanced frontend practices and studying up on System Design.
 
 - 🎯 **Why I Do This**: I love building things that are both functional and enjoyable to use. Whether it’s crafting intuitive interfaces or architecting solid backends, I aim to create stuff that people love using.
 
