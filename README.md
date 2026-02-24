@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I’m **Amlan Kumar Nandy**, a Full Stack Developer with about **3 years of experience** building web and mobile applications that make life easier (and look good while doing it). While my main jam is web development, I also dive into mobile projects when the need arises. I enjoy contributing to open source and have been a part of Google Summer of Code twice—once as a student in 2021, and again as a mentor in 2022.
+I’m **Amlan Kumar Nandy**, a Full Stack Developer with about **4 years of experience** building web and mobile applications that make life easier (and look good while doing it). While my main jam is web development, I also dive into mobile projects when the need arises. I enjoy contributing to open source and have been a part of Google Summer of Code twice—once as a student in 2021, and again as a mentor in 2022.
 
 - 🚀 **What I’ve Been Working On**:
   - **[LabelLab](https://github.com/amlannandy/LabelLab)**: LabelLab is a tool for collaborative image labeling, designed to streamline the process of classifying images for machine learning projects. It supports team collaboration, allowing users to upload, label, and track progress on datasets. The platform includes project management features, role-based access for team members, and tools to track labeling activity, making it ideal for machine learning teams working with large datasets.
