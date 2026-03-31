@@ -2,12 +2,7 @@
 
 I’m **Amlan Kumar Nandy**, a Full Stack Developer with about **4 years of experience** building web and mobile applications that make life easier (and look good while doing it). While my main jam is web development, I also dive into mobile projects when the need arises. I enjoy contributing to open source and have been a part of Google Summer of Code twice—once as a student in 2021, and again as a mentor in 2022.
 
-- 🚀 **What I’ve Been Working On**:
-  - **[LabelLab](https://github.com/amlannandy/LabelLab)**: LabelLab is a tool for collaborative image labeling, designed to streamline the process of classifying images for machine learning projects. It supports team collaboration, allowing users to upload, label, and track progress on datasets. The platform includes project management features, role-based access for team members, and tools to track labeling activity, making it ideal for machine learning teams working with large datasets.
-  - **[Medigo](https://github.com/amlannandy/Medigo)**: Medigo is a telehealth solution designed to connect patients with healthcare providers through virtual consultations. The platform allows users to schedule appointments, access medical records securely, and receive prescriptions electronically. By integrating video calling, real-time communication, and data security, Medigo makes healthcare more accessible, especially for patients in remote areas, while ensuring privacy and convenience for both patients and doctors.
-  - **[AgroAcres](https://github.com/amlannandy/AgroAcres)**: AgroAcres is a platform aimed at enhancing the efficiency of agricultural markets by providing tools for farmers to manage their crops, predict yields, and connect with suppliers and buyers. The app allows users to list products, browse offers, and communicate with stakeholders in the agricultural supply chain. With features that support inventory management and market analysis, AgroAcres helps streamline farming operations, boosting productivity and market access for agriculturalists.
-
-You can check out more of my work here on GitHub or explore my **[Devpost profile](https://devpost.com/amlannandy5)** for other projects I’ve worked on.
+You can check my work here on GitHub or explore my **[Devpost profile](https://devpost.com/amlannandy5)** for other projects I’ve worked on.
 
 - 💻 **Tech I Use**:
   - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
